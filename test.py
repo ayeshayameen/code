@@ -39,8 +39,8 @@ e2=Emp(2,'xyz',25,1000000000000)
 print(e2)
 
 
-e2=Emp(3,'qwe',28,1000000000000)
-print(e2)
+e3=Emp(3,'qwe',28,1000000000000)
+print(e3)
 
 for row in range(1,6):
     for col in range(1,row+1):
